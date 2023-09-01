@@ -17,7 +17,7 @@
   - ''' npx newman run https://api.postman.com/collections/29331958-6954d043-8a5f-4472-a4f9-f561e672fa68?access_key=PMAT-01H94ZRAF1P8Y6CZGA9G638CAW -r htmlextra '''
 
  ## d-money API documentation
-    - ( https://documenter.getpostman.com/view/29331958/2s9Y5bNfFD )
+ https://documenter.getpostman.com/view/29331958/2s9Y5bNfFD 
 
  ## d-money API Test Case
    - ( https://docs.google.com/spreadsheets/d/1DRK72Gkr3dOJmY2aERwFXE-QgZxr3HROUG1kDZotJz4/edit?usp=sharing )
